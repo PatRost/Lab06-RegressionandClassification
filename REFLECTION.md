@@ -6,7 +6,7 @@
 
 ---
 
-### Member 1 — Patrick
+### Member 1 — Patrick Rostand Gandjouon Tchassem
 
 This lab helped me understand the difference between regression and classification and how both are used in machine learning. Before completing the lab, I knew that machine learning models could make predictions, but I did not fully understand why different problems require different models. Working with the Titanic dataset helped me see that Linear Regression predicts numerical values, such as passenger fares, while Logistic Regression predicts categories, such as whether a passenger survived.
 
