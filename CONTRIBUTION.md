@@ -45,11 +45,16 @@ My contribution to this lab was focused on Task 3, which involved model interpre
 
 
 
-### Member 4 — [Full Name]
+### Member 4 — Anavictoria Cavazos
 
-**My Contribution:**
+My Contribution:
 
-[Describe your specific contribution here.]
+My personal contribution for assignment 06 was to communicate within my group about the completion of the assignment, as well as 
+providing help amongst us when needed. Aside from the usual communication with my group I made sure to complete the Google Colab 
+independently to understand the concept or topic being shown in 06. When doing 06 I made sure to compare what I ended up with and to the 
+colab selected to turn in.
+In doing so it helps to make sure it was done properly and to assure that I also properly completed it, that way 
+mistakes are avoided or noticed before considering it as successfully completed.
 
 ---
 
