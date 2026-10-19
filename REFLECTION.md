@@ -16,11 +16,40 @@ I also learned that getting a result does not always mean a model is perfect. Th
 
 ---
 
-### Member 2 — [Full Name]
+### Member 2 — Kenneth Kouokam
 
-**Reflection:**
+For Module 06, my role focuses on data preparation and train/test splits. The main idea I take from
+this section is that a model needs more than a dataset to begin learning. We have to decide what
+information it should use, what it should predict, and how we will check its performance. These
+decisions shape the meaning of the results. A model can run successfully, but its evaluation is only
+useful if the data has been organized in a way that matches the problem.
 
-[Write your personal reflection here. Explain what you learned about regression and classification, what you found challenging, and how the lab improved your understanding.]
+The two prediction tasks help me understand the difference between features and targets. For fare
+prediction, Age and Pclass provide the information, while Fare is the value we want to estimate. For
+survival prediction, Sex is added to the inputs and Survived becomes the target. Using the same
+dataset for two different questions makes this distinction clearer to me. The dataset itself does not
+determine whether the task is regression or classification; the kind of answer we want to predict does.
+
+The handling of missing ages also connects this lab to Module 05. That lab introduced filling missing
+ages with the median, while this notebook removes rows with missing Age values for simplicity. This
+comparison shows me that preparation involves choices rather than one rule that always works.
+Removing rows avoids guessing an age, but it also removes passengers from the analysis. A
+question I would want to explore is whether those excluded passengers differ from the ones we keep
+and how that could affect the results.
+
+The train/test split is especially important because learning and evaluation serve different purposes. I
+think of the training data as practice examples and the test data as a separate check. If the model
+were evaluated only on the examples it learned from, the score could give an overly positive
+impression of how well it handles new passengers. The 80/20 split keeps some examples aside for
+this check. Setting random_state=42 makes that split repeatable, but it does not automatically make
+the model more accurate.
+
+Encoding Sex is another reminder that the meaning of a column matters as much as its format. The
+values 0 and 1 represent two categories, not a ranking. My main takeaway is that preparation
+decisions need explanations, even when the code is short. In my part of the group work, I want to
+make the connection between the original data and the model inputs clear. Understanding that
+connection helps me judge what an evaluation score can tell us and what it cannot establish on its
+own.
 
 ---
 
