@@ -18,11 +18,21 @@ After completing the exercises, I reviewed the notebook outputs and exported the
 
 ---
 
-### Member 2 — [Full Name]
+### Member 2 — Kenneth Kouokam
 
-**My Contribution:**
+My contribution to the Module 06 lab focuses on reviewing and explaining the data preparation and
+train/test splits used before model training. This includes how the Titanic dataset is loaded into
+pandas and why rows with missing Age values are removed in this notebook. My section identifies
+Age and Pclass as the input features for predicting Fare. For survival prediction, it explains the use of
+Age, Pclass, and Sex as inputs, with Survived as the target. It also covers the encoding of Sex, where
+male is represented by 0 and female by 1.
 
-[Describe the specific tasks you personally completed. Include any coding, testing, analysis, documentation, or review you performed.]
+My part also explains how both prediction tasks use an 80/20 train/test split with random_state=42.
+The training portion allows each model to learn relationships, while the test portion provides separate
+examples for evaluating its predictions. Keeping the split reproducible helps the group compare
+results using the same starting conditions. This review supports the group by documenting how the
+inputs and targets are prepared and why the evaluation data must remain separate from training. My
+focus is the preparation and explanation of the workflow leading into the two models
 
 ---
 
