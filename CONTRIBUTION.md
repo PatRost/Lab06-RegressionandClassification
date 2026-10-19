@@ -36,13 +36,14 @@ focus is the preparation and explanation of the workflow leading into the two mo
 
 ---
 
-### Member 3 — [Full Name]
+### Member 3 — Saimi Manasiya
 
-**My Contribution:**
+My contribution to this lab was focused on Task 3, which involved model interpretation and answering the knowledge-check questions. I worked on understanding and explaining the differences between regression and classification and how each method is used for different prediction tasks. I also focused on interpreting the coefficients of the Linear Regression model by printing lr_model.coef_ and understanding their relationship to the Age and Pclass features in the specified order. In addition, I explained why MSE is used to measure errors in fare prediction and why accuracy is used to evaluate survival classification. While working on this task, I reviewed the model outputs and connected the results to the concepts learned in class. This helped me develop my analytical and problem-solving skills and improve my ability to explain machine learning results in simple terms. Through this contribution, I gained a better understanding of how to evaluate and interpret models and how these concepts can be applied when working with real-world datasets such as the Titanic dataset.
 
-[Describe your specific contribution here.]
 
----
+
+
+
 
 ### Member 4 — [Full Name]
 
