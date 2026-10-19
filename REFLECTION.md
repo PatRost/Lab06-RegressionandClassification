@@ -53,13 +53,9 @@ own.
 
 ---
 
-### Member 3 — [Full Name]
+### Member 3 — Saimi Manasiya
 
-**Reflection:**
-
-[Write your personal reflection here.]
-
----
+In this lab, I learned how to interpret machine learning models and understand the differences between regression and classification. I learned that regression is used to predict continuous numerical values, such as passenger fares, while classification is used to predict categories, such as whether a passenger survived or did not survive. I also learned how to print and interpret the coefficients of a Linear Regression model using lr_model.coef_. These coefficients help explain how features such as Age and Pclass influence the predicted fare, while keeping the order of the features in mind. Additionally, I understood why Mean Squared Error (MSE) is suitable for evaluating fare predictions and why accuracy is appropriate for evaluating survival classification. This activity helped me understand how to interpret model results instead of only focusing on writing code. Overall, I improved my understanding of machine learning concepts, model evaluation, and the importance of choosing the correct evaluation metric for different prediction problems.
 
 ### Member 4 — [Full Name]
 
