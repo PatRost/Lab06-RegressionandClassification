@@ -57,11 +57,27 @@ own.
 
 In this lab, I learned how to interpret machine learning models and understand the differences between regression and classification. I learned that regression is used to predict continuous numerical values, such as passenger fares, while classification is used to predict categories, such as whether a passenger survived or did not survive. I also learned how to print and interpret the coefficients of a Linear Regression model using lr_model.coef_. These coefficients help explain how features such as Age and Pclass influence the predicted fare, while keeping the order of the features in mind. Additionally, I understood why Mean Squared Error (MSE) is suitable for evaluating fare predictions and why accuracy is appropriate for evaluating survival classification. This activity helped me understand how to interpret model results instead of only focusing on writing code. Overall, I improved my understanding of machine learning concepts, model evaluation, and the importance of choosing the correct evaluation metric for different prediction problems.
 
-### Member 4 — [Full Name]
+### Member 4 — Anavictoria Cavazos
 
-**Reflection:**
+Reflection
 
-[Write your personal reflection here.]
+After completing Module 06 and reflecting on the learning I acquired from it, I would say with honesty that this module showed me more 
+about errors than the actual concepts involved, but to clarify I did learn from the concepts and task themselves. In my reflection I will 
+center my point of view or learning in errors because when working on 06 I experienced about 10 minutes worth of error and trying to fix 
+it. Now, how exactly did this happened or why did I spent 10 minutes with an error? Well the response is simple just as the problem was, 
+but took me forever to identify. What occurred was when I was executing part 3 and task 2, in line for training the model I had put first 
+a lowercase 'x', but a capital 'X' was supposed to be there. Then I fixed that error and ran the cell in part 3 before running task 2, 
+but it showed that there was still an error. Then the suppose problem was my indentation, but after looking over and even retyping some of
+the code I saw that was not the issue either. This is the part that taught me about patience and remebring there is always a solution, 
+that is a given, so then I go back to part 3 and as I am looking over the code I realized that is where the problem was coming from. Even
+though it had ran successfully, there was an issue in the format, which was interrupting my task 2 from running successfully. Then I
+fixed the format by inputting proper indentions; I ran it, then ran task 2 right after and finally that green checkmark appeared. My 
+overall takeaway from this assignment, was being able to learn about regression and the accuracy as well as the number in error in 'fare'
+and why it was written in a decimal, and seeing how it is squared. I learned that in order for the codes to work, the prior code imputed 
+has to be properly executed because otherwise the codes going further will not run.
+
+
+
 
 ---
 
