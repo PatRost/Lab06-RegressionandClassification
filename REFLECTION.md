@@ -82,6 +82,9 @@ has to be properly executed because otherwise the codes going further will not r
 ---
 
 ### Member 5 — Hashim Sayed Hoosini
+
+Reflection
+
 The primary goal of this lab was to explore the differences between regression and classification using the Titanic dataset. I used regression to predict continuous ticket prices and classification to predict distinct survival categories. This hands-on practice helped me transition from raw data preparation to building and evaluating real-world models.
 
 In my regression task, I used a LinearRegression model to predict fares based on passenger age and class. I evaluated the model using Mean Squared Error, which resulted in an RMSE showing that my predictions were off by $58.01 on average. This proved that predicting exact financial variables remains highly complex.
@@ -95,9 +98,8 @@ Overall, this lab showed me that building a model is only half the work. Fixing 
 
 
 LLM used:
+
 Code copilot 
-Google AI mode
-Purpose: writing code, spelling check,  fix grammar problems.
 
 
 **Reflection:**
