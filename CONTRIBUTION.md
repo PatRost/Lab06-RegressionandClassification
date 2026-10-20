@@ -58,8 +58,11 @@ mistakes are avoided or noticed before considering it as successfully completed.
 
 ---
 
-### Member 5 — [Full Name]
+### Member 5 — Hashim Sayed Hoosini
 
 **My Contribution:**
 
-[Describe your specific contribution here.]
+My contribution to this lab focused on running the experiments independently. By completing this lab, I learned that regression is used to predict a continuous numerical value—such as predicting that a passenger's ticket price.
+Conversely, I learned that classification is applied when predicting a discrete label or category, such as determining whether a passenger falls into the "survived" or "died" category.
+Furthermore, I gained a deeper understanding of why we evaluate regression models using mean squared error (MSE), while relying on accuracy score for classification models. Each of these steps significantly enhanced my overall understanding of both regression and classification methodologies.
+
